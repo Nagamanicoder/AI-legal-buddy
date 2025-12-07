@@ -1,0 +1,136 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture",
+    "description": "Income support scheme providing ₹6000 per year to small and marginal farmers",
+    "eligibility": [
+      "Must be a farmer (cultivator)",
+      "Land holding should be less than 2 hectares",
+      "Should not be an income tax payer",
+      "Should not be a government employee or pensioner"
+    ],
+    "benefits": "₹6000 per year in 3 equal installments of ₹2000 each, directly transferred to bank account",
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details (account number, IFSC code)",
+      "Land ownership documents",
+      "Citizenship certificate"
+    ],
+    "how_to_apply": [
+      "Visit nearest Common Service Center (CSC)",
+      "Fill the application form with Aadhaar details",
+      "Submit land records and bank account proof",
+      "Get registration acknowledgment number",
+      "Check status online at pmkisan.gov.in"
+    ],
+    "official_website": "https://pmkisan.gov.in/",
+    "helpline": "155261 / 011-24300606"
+  },
+  {
+    "id": "epf",
+    "name": "EPF (Employee Provident Fund)",
+    "category": "Labor Rights",
+    "description": "Mandatory retirement savings scheme for salaried employees earning less than ₹15,000/month",
+    "eligibility": [
+      "Working in an establishment with 20 or more employees",
+      "Earning basic salary + DA less than ₹15,000 per month (mandatory)",
+      "Voluntary for those earning above ₹15,000"
+    ],
+    "benefits": "12% of basic salary contributed by employee + 12% by employer. Interest earned on accumulated amount. Withdrawal allowed at retirement, resignation, or specific needs",
+    "documents_required": [
+      "Aadhaar card",
+      "PAN card",
+      "Bank account details",
+      "Passport size photo"
+    ],
+    "how_to_apply": [
+      "Employer registers employee automatically on joining",
+      "Employee provides Aadhaar and PAN to employer",
+      "UAN (Universal Account Number) generated",
+      "Link Aadhaar with UAN on epfindia.gov.in",
+      "Download mobile app for tracking"
+    ],
+    "official_website": "https://www.epfindia.gov.in/",
+    "helpline": "1800-118-005"
+  },
+  {
+    "id": "esi",
+    "name": "ESI (Employee State Insurance)",
+    "category": "Labor Rights",
+    "description": "Health insurance and cash benefits scheme for workers earning up to ₹21,000/month",
+    "eligibility": [
+      "Working in a factory/establishment with 10+ employees",
+      "Monthly wage up to ₹21,000",
+      "Includes workers, clerks, supervisors"
+    ],
+    "benefits": "Free medical care for self and family (spouse, children, parents). Cash benefits during sickness, maternity, disability. Pension in case of death or permanent disability",
+    "documents_required": [
+      "Aadhaar card",
+      "Passport size photo",
+      "Family details for dependent coverage"
+    ],
+    "how_to_apply": [
+      "Employer registers employee",
+      "Employee gets ESI card (now digital)",
+      "Visit any ESI hospital/dispensary for treatment",
+      "Show ESI card for free medical services"
+    ],
+    "official_website": "https://www.esic.gov.in/",
+    "helpline": "1800-11-2526"
+  },
+  {
+    "id": "ayushman_bharat",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "category": "Health",
+    "description": "Free health insurance up to ₹5 lakh per family per year for poor and vulnerable families",
+    "eligibility": [
+      "Families listed in SECC-2011 (Socio-Economic Caste Census)",
+      "Belonging to deprived categories",
+      "No income limit - based on deprivation criteria"
+    ],
+    "benefits": "Free hospitalization up to ₹5 lakh per family per year. Covers secondary and tertiary care. Cashless and paperless in empanelled hospitals",
+    "documents_required": [
+      "Aadhaar card",
+      "Ration card",
+      "Mobile number",
+      "Address proof"
+    ],
+    "how_to_apply": [
+      "Check eligibility at pmjay.gov.in or toll-free 14555",
+      "If eligible, visit nearest Common Service Center",
+      "Provide Aadhaar and mobile number",
+      "Get Ayushman Card generated instantly",
+      "Show card at any empanelled hospital"
+    ],
+    "official_website": "https://pmjay.gov.in/",
+    "helpline": "14555"
+  },
+  {
+    "id": "mgnrega",
+    "name": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)",
+    "category": "Employment",
+    "description": "Guarantees 100 days of wage employment per year to rural households for unskilled manual work",
+    "eligibility": [
+      "Adult member of rural household",
+      "Willing to do unskilled manual work",
+      "Must have job card"
+    ],
+    "benefits": "Minimum 100 days of guaranteed employment per household per year. Wages paid as per state rates (₹200-300 per day). Work within 5km of residence",
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details",
+      "Address proof",
+      "Passport size photo"
+    ],
+    "how_to_apply": [
+      "Visit Gram Panchayat office",
+      "Fill application form for job card",
+      "Provide photo, Aadhaar, bank details",
+      "Receive job card within 15 days",
+      "Apply for work as needed"
+    ],
+    "official_website": "https://nrega.nic.in/",
+    "helpline": "1800-345-22-44"
+  }
+]
